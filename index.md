@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+## Hello this is Alex's site ahhhhh
 
-You can use the [editor on GitHub](https://github.com/Weiyi-Zhai/alexzhai.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am not happy with any of the theme but this is what I ended up with. 
+
+
+
+
+
+
+
+
+## The following are just the default index text and has nothing to do with me:/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
