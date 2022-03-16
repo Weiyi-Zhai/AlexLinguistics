@@ -1,7 +1,8 @@
 ## Hello this is Alex's site ahhhhh
 
 I am not happy with any of the theme but this is what I ended up with. 
-[About Us] (about.md)
+
+[About Us](about.md)
 
 
 
